@@ -1304,5 +1304,12 @@
         "6FzXPEhCJoBx7Zw3SN9qhekHemd6E2b8kVguitmVAngW":"nodehodler.com Vote Account",
 
 
+    },
+
+    "trust_token": {
+        "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": "USDC",
+        "So11111111111111111111111111111111111111112": "SOL",
+        "USDT": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+
     }
 }
