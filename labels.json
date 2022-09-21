@@ -1302,7 +1302,7 @@
         "7xtwDQqTrckJ9A2pYBgZMa8F6MvzqNgqDy1RJVBtbNuE":"SOLTOOL Vote Account",
         "29rzUXiy2kYridD6zxc6nszsQpgVW8bknW9NMQEiQThi":"nodehodler.com",
         "6FzXPEhCJoBx7Zw3SN9qhekHemd6E2b8kVguitmVAngW":"nodehodler.com Vote Account",
-        
+
         "2ojv9BAiHUrvsm9gxDe7fJSzbNZSJcxZvf8dqmWGHG8S": "Binance",
         "6ZRCB7AAqGre6c72PRz3MHLC73VMYvJ8bi9KHf1HFpNk": "FTX",
         "H8sMJSCQxfKiFTCfDR3DUMLPwcRbM61LGFJ8N4dK3WjS": "Coinbase",
@@ -1311,6 +1311,15 @@
         "57vSaRTqN9iXaemgh4AoDsZ63mcaoshfMK8NP3Z5QNbs": "Kucoin",
         "FxteHmLwG9nk1eL4pjNve3Eub2goGkkz6g6TbvdmW46a": "Bitfinex",
         "u6PJ8DtQuPFnfmwHbGFULQ4u4EgjDiyYKjVEsynXq2w": "Gate.io"
+    },
+
+    "hacker": {
+      "Htp9MGP8Tig923ZFY7Qf2zzbMUmYneFRAhSp7vSg4wxV": "Hacker's wallet 1",
+      "CEzN7mqP9xoxn2HdyW6fjEJ73t7qaX9Rp2zyS6hb3iEu": "Hacker's wallet 2",
+      "5WwBYgQG6BdErM2nNNyUmQXfcUnB68b6kesxBywh1J3n": "Hacker's wallet 3",
+      "GeEccGJ9BEzVbVor1njkBCCiqXJbXVeDHaXDCrBDbmuy": "Hacker's wallet 4",
+      "Esmx2QjmDZMjJ15yBJ2nhqisjEt7Gqro4jSkofdoVsvY": "Hacker (Crema Finance Exploit)",
+      "76w4SBe2of2wWUsx2FjkkwD29rRznfvEkBa1upSbTAWH": "Hacker (Nirvana Finance Exploit)"
     },
 
     "trust_token": {
