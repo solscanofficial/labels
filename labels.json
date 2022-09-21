@@ -1302,8 +1302,15 @@
         "7xtwDQqTrckJ9A2pYBgZMa8F6MvzqNgqDy1RJVBtbNuE":"SOLTOOL Vote Account",
         "29rzUXiy2kYridD6zxc6nszsQpgVW8bknW9NMQEiQThi":"nodehodler.com",
         "6FzXPEhCJoBx7Zw3SN9qhekHemd6E2b8kVguitmVAngW":"nodehodler.com Vote Account",
-
-
+        
+        "2ojv9BAiHUrvsm9gxDe7fJSzbNZSJcxZvf8dqmWGHG8S": "Binance",
+        "6ZRCB7AAqGre6c72PRz3MHLC73VMYvJ8bi9KHf1HFpNk": "FTX",
+        "H8sMJSCQxfKiFTCfDR3DUMLPwcRbM61LGFJ8N4dK3WjS": "Coinbase",
+        "6iVBAsquJRaLsXbojb18kqTW1d5iVLspVjCtsReZBKhY": "Ascendex",
+        "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ": "MEXC",
+        "57vSaRTqN9iXaemgh4AoDsZ63mcaoshfMK8NP3Z5QNbs": "Kucoin",
+        "FxteHmLwG9nk1eL4pjNve3Eub2goGkkz6g6TbvdmW46a": "Bitfinex",
+        "u6PJ8DtQuPFnfmwHbGFULQ4u4EgjDiyYKjVEsynXq2w": "Gate.io"
     },
 
     "trust_token": {
