@@ -1366,5 +1366,17 @@
         "So11111111111111111111111111111111111111112": "SOL",
         "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB": "USDT"
 
+    },
+    
+      "clash_platform": {
+        "95qzVfqw7nWSSwP2K38D7LFLVNNz2M1XrA5VfZ1yidsk": "Clash PvP Wallet 1",
+        "55PbwE7eMHH2J5KWDCW7bejiqVnz5x3cUE3tkQS4QT9d": "Clash Rewards Wallet 1",
+        "3osPrnbddUNpa1qStdi4AqESCzrMWvHERj9Hc8vGZW45": "Clash Tournament Wallet 1",
+        "FP3DDXybsDFm3visceG3BTLEJGu6rhNy3pcxzzvGhPWt": "Clash Authority Wallet",
+        "AtFwFRqDpSmxSHfR7HqEbg5HmzWPWEUZh8XDKgRPisXx": "Clash Gas Fee",
+        "9pe6KuqEantbC8BexLuW6QniNNdNFGq6GSoE1nbR5FXM": "Clash PvP Wallet 2",
+        "pzRYmwdmE9ZGhfSbruGxSX2HrvutStmmt7TvAC425cG": "Clash Rewards Wallet 2",
+        "AywfAy2ciNtoyrqPmCjHfNZo18gw2uqk2emQrjG6S1NE": "Clash Tournament Wallet 2",
+        "Auc6pav58pHNg91c9fJqLwodaya6yEaJuzGtNHnPC1eH": "Clash Platform"
     }
 }
