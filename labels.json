@@ -1388,5 +1388,22 @@
         "So11111111111111111111111111111111111111112": "SOL",
         "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB": "USDT"
 
+    },
+    "marketplaces": {
+        "SOLSEA": { "name": "Solsea", "url": "https://solsea.io/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/solsea.svg" },
+        "OPEN_SEA": { "name": "OpenSea", "url": "https://opensea.io/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/opensea.svg" },
+        "MAGIC_EDEN": { "name": "MagicEden", "url": "https://magiceden.io/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/magiceden.png" },
+        "DIGITAL_EYES": { "name": "Digital Eyes", "url": "https://www.digitaleyes.market/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/digitaleyes.svg" },
+        "EXCHANGE_ART": { "name": "Exchange Art", "url": "https://exchange.art/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/exchangeart.png" },
+        "CORAL_CUBE": { "name": "Coral Cube", "url": "https://coralcube.io/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/coralcube.svg" },
+        "HYPERSPACE": { "name": "HyperSpace", "url": "https://hyperspace.xyz/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/hyperspace.png" },
+        "SOLANART": { "name": "Solanart", "url": "https://solanart.io/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/solanart.png" },
+        "HADESWAP": { "name": "Hadeswap", "url": "https://hadeswap.com/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/hadeswap.svg" },
+        "TENSOR": { "name": "TensorSwap", "url": "https://www.tensor.trade/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/tensor.png" },
+        "TIEXO": { "name": "Tiexo", "url": "https://tiexo.com/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/tiexo.svg" },
+        "FRACTAL": { "name": "Fractal", "url": "https://www.fractal.is/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/fractal.png" },
+        "RARIBLE": { "name": "Rarible", "url": "https://rarible.com/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/rarible.svg" },
+        "METAPLEX_AUCTION_HOUSE": { "name": "Metaplex Auction", "url": "https://www.metaplex.com/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/metaplex-auction.png" },
+        "HOLAPLEX": { "name": "Holaplex", "url": "https://www.holaplex.com/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/holaplex.png" },
     }
 }
