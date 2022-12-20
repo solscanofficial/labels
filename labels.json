@@ -1404,6 +1404,6 @@
         "FRACTAL": { "name": "Fractal", "url": "https://www.fractal.is/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/fractal.png" },
         "RARIBLE": { "name": "Rarible", "url": "https://rarible.com/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/rarible.svg" },
         "METAPLEX_AUCTION_HOUSE": { "name": "Metaplex Auction", "url": "https://www.metaplex.com/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/metaplex-auction.png" },
-        "HOLAPLEX": { "name": "Holaplex", "url": "https://www.holaplex.com/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/holaplex.png" },
+        "HOLAPLEX": { "name": "Holaplex", "url": "https://www.holaplex.com/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/holaplex.png" }
     }
 }
