@@ -1405,6 +1405,8 @@
         "RARIBLE": { "name": "Rarible", "url": "https://rarible.com/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/rarible.svg" },
         "METAPLEX_AUCTION_HOUSE": { "name": "Metaplex Auction", "url": "https://www.metaplex.com/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/metaplex-auction.png" },
         "HOLAPLEX": { "name": "Holaplex", "url": "https://www.holaplex.com/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/holaplex.png" },
-        "ALPHA_ART": { "name": "Alpha Art", "url": "https://alpha.art/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/alphaart.png" }
+        "ALPHA_ART": { "name": "Alpha Art", "url": "https://alpha.art/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/alphaart.png" },
+        "DEGENAPE_ACADEMY": { "name": "Degenerate Ape Academy", "url": "https://www.degenape.academy/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/degenape.png" },
+        "CORAL_CUBE_MAGIC_EDEN_AMM": { "name": "CoralCube & MagicEden Amm", "url": "https://coralcube.io/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/coralcube.svg" }
     }
 }
