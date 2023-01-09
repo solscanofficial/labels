@@ -105,6 +105,10 @@
         "EewxydAPCCVuNEyrVN68PuSYdQ7wKn27V9Gjeoi8dy3S": "LifinitySwap",
         "2wT8Yq49kHgDzXuPxZSaeLaH1qbmGXtEyPy64bL7aD3c": "Lifinity Swap V2",
         
+        "6JZoszTBzkGsskbheswiS6z2LRGckyFY4SpEGiLZqA9p": "Bonk Treasury",
+        "DBR2ZUvjZTcgy6R9US64t96pBEZMyr9DPW6G2scrctQK": "Bonk MultiSig Wallet",
+        
+        
         "46tLag65TCkLf49scN678ghj1537QwcboKKUxt14agBZ": "SolBlaze Faucet",
         "stk9ApL5HeVAwPLr3TLhDXdZS8ptVu7zp6ov8HFDuMi": "BlazeStake Pool",
         "rsrxDvYUXjH1RQj2Ke36LNZEVqGztATxFkqNukERqFT": "BlazeStake Reserve",
@@ -125,6 +129,7 @@
         "HyaB3W9q6XdA5xwpU4XnSZV94htfmbmqJXZcEbRaJutt": "Invariant Swap",
     
         "cysPXAjehMpVKUapzbMCCnpFxUFFryEWEaLgnb9NrR8": "Cykura Swap",
+        "9qW6LMCDJtmj3CeTeC2W7te1pyzeC3eFq7JUShBrRMi9": "Ottr Uni Fund",
     
         "7WduLbRfYhTJktjLw5FDEyrqoEv61aTTCuGAetgLjzN5": "GooseFX SSL",
         "8KJx48PYGHVC9fxzRRtYp4x4CM2HyYCm2EjVuAP4vvrx": "GooseFX Controller Program",
@@ -148,6 +153,8 @@
         "7VHUFJHWu2CuExkJcJrzhQPJ2oygupTWkL2A2For4BmE": "Circle",
 
         "6LtLpnUFNByNXLyCoK9wA2MykKAmQNZKBdY8s47dehDc": "Kamino Program",
+        
+        "F1aShdFVv12jar3oM2fi6SDqbefSnnCVRzaxbPH3you7": "Texture Finance", 
 
         "SPQR4kT3q2oUKEJes2L6NNSBCiPW9SfuhkuqC9bp6Sx": "Sunny Pool Quarry",
 
@@ -172,6 +179,8 @@
         "dp2waEWSBy5yKmq65ergoU3G6qRLmqa6K7We4rZSKph": "Dradex Program",
         "farmV2NGeqkywqnVGb9DCJfqFQpCYo6uHBXFa42tbov": "Dradex Farming Program",
         "1gE3LGQze8DQ3KD2C4ZUCmRX5g4njhY5yLfYmnmcvJR": "Dradex Log Program",
+        
+        "dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH": " Drift V2 Program",
 
         "HvwYjjzPbXWpykgVZhqvvfeeaSraQVnTiQibofaFw9M7": "Atrix Finance Pool Program",
         "BLDDrex4ZSWBgPYaaH6CQCzkJXWfzCiiur9cSFJT8t3x": "Atrix Finance Farm Program",
@@ -182,6 +191,8 @@
         "dripTrkvSyQKvkyWg7oi4jmeEGMA5scSYowHArJ9Vwk": "Drip Program",
 
         "X3NongcyQZDhmvFYWbUASHXurHTTyPXYfdDEci99uuR": "Xenon Program",
+
+        "PSwapMdSai8tjrEXcxFeQth87xC4rRsa4VA5mhGhXkP": "Penguin Finance",
         
         "MoveLdr111111111111111111111111111111111111": "Move Loader",
         "NativeLoader1111111111111111111111111111111": "Native Loader",
@@ -1244,7 +1255,7 @@
         "DHXbmu3KUhHYn2Trned5ZUaGC6GRgHYhJoRbCr75XQxj":"NodeWall Vote Account",
         "7WLzboF5Bu9e26MvLVps4rPbSHBgme4J1w2Hr9G4WW5C":"BaileyG",
         "CVhcNEoRowd91vGXpxq1f1wN44iH7jFwe57ux9jG5NKE":"BaileyG Vote Account",
-        "25V3EzQTGCSoLhihuH7f9jjyim1sxH6MR8MUtRLtLuoa":"LucyRussell",
+        "v25V3EzQTGCSoLhihuH7f9jjyim1sxH6MR8MUtRLtLuoa":"LucyRussell",
         "GLBi7kFdxSmTFiK5Y5rXVoHXscU8eoGUZhzDR7fa9ANq":"LucyRussell Vote Account",
         "8VAyNMaz9DFLNxSFrhjiusKCcgQNKgnByiG6KfeCP8vE":"NathanWa",
         "49SQQ2PiMPEcR2ZN5pkeGCnFKUQaNMmyZ45vEM4YzDP3":"NathanWa Vote Account",
@@ -1362,13 +1373,17 @@
         "5Xm6nU1Bi6UewCrhJQFk1CAV97ZJaRiFw4tFNhUbXy3u": "Alameda 1",
         "HtJAWMsSRXbyBvXm1F4PDnGFzhgfBAPciyHWMZgugejX": "Alameda 2",
         "CuieVDEDtLo7FypA9SbLM9saXFdb1dsshEkyErMqkRQq": "Alameda 3",
-        "H8sMJSCQxfKiFTCfDR3DUMLPwcRbM61LGFJ8N4dK3WjS": "Coinbase",
+        "H8sMJSCQxfKiFTCfDR3DUMLPwcRbM61LGFJ8N4dK3WjS": "Coinbase 1",
+        "2AQdpHJ2JpcEgPiATUXjQxA8QmafFegfQwSLWSprPicm": "Coinbase 2",
         "6iVBAsquJRaLsXbojb18kqTW1d5iVLspVjCtsReZBKhY": "Ascendex",
         "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ": "MEXC",
         "57vSaRTqN9iXaemgh4AoDsZ63mcaoshfMK8NP3Z5QNbs": "Kucoin",
         "FxteHmLwG9nk1eL4pjNve3Eub2goGkkz6g6TbvdmW46a": "Bitfinex",
         "u6PJ8DtQuPFnfmwHbGFULQ4u4EgjDiyYKjVEsynXq2w": "Gate.io",
-        "JBpj7yp4Afvb71TmanVwJZXGeX4kqbGFvjCFCRo3EbTM": "FTX.US"
+        "JBpj7yp4Afvb71TmanVwJZXGeX4kqbGFvjCFCRo3EbTM": "FTX.US",
+        "AhFjTUE2DgNFnAfRtFLUmLTLYyhxzz7j1cvKbvP18tg9": "Jump Crypto",
+        "88xTWZMeKfiTgbfEmPLdsUCQcZinwUfk25EBQZ21XMAZ": "Huobi",
+        "AC5RDfQFmDS1deWZos921JfqscXdByf8BKHs5ACWjtW2": "Bybit"
     },
 
     "hacker": {
@@ -1389,6 +1404,7 @@
         "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB": "USDT"
 
     },
+
     "marketplaces": {
         "SOLSEA": { "name": "Solsea", "url": "https://solsea.io/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/solsea.svg" },
         "OPEN_SEA": { "name": "OpenSea", "url": "https://opensea.io/", "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/opensea.svg" },
