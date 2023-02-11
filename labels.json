@@ -20,6 +20,7 @@
         "CBuCnLe26faBpcBP2fktp4rp8abpcAnTWft6ZrP5Q4T": "Raydium Stake V4",
         "9KEPoZmtHUrBbhWN1v1KWLMkkvwY6WLtAVUCPRtRjP4z": "Raydium Stake V5",
         "9HzJyW1qZsEiSfMUf6L2jo3CcTKAyBmSyKdwQeYisHrC": "Raydium IDO",
+        "CPK8fQYShAmERZmysQRAGWPvV5qs3AvazQsiR9ctC6ED": "Raydium CLAMM LP"
         "6FJon3QE27qgPVggARueB22hLvoh22VzJpXv4rBEoSLF": "IDO Program",
         "Vote111111111111111111111111111111111111111": "Vote Program",
         "AddressMap111111111111111111111111111111111": "Address Map Program",
@@ -1411,7 +1412,8 @@
       "76w4SBe2of2wWUsx2FjkkwD29rRznfvEkBa1upSbTAWH": "Hacker (Nirvana Finance Exploit)",
       "yUJw9a2PyoqKkH47i4yEGf4WXomSHMiK7Lp29Xs2NqM": "Mango Markets Exploiter's Account",
       "61wJT43nWMUpDR92wC7pmo6xoJRh2s4kCYRBq4d5XQHZ": "Solend Exploiter's Account",
-      "AgJddDJLt17nHyXDCpyGELxwsZZQPqfUsuwzoiqVGJwD": "Raydium LP Exploiter's Account"
+      "AgJddDJLt17nHyXDCpyGELxwsZZQPqfUsuwzoiqVGJwD": "Raydium LP Exploiter's Account",
+      "EAUwikTgqeHKJMaqDj17Cwb6TH3XzcXbxHSN7etGzMFt": "Wormhole Exploiter"
     },
 
     "trust_token": {
