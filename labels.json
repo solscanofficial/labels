@@ -837,8 +837,8 @@
         "9tedbEYypEKXAMkHcg42rn3fXY1B8hB6cdE3ZTFouXLL":"stake.systems Vote Account",
         "Bb4BP3EvsPyBuqSAABx7KmYAp3mRqAZUYN1vChWsbjDc":"Cryptoded",
         "13HNYUVBVHgJSfNKvgXgKia3bywzXabGzQjFyMQxLMjS":"Cryptoded Vote Account",
-        "BFMufPp4wW276nFzB7FVHgtY8FTahzn53kxxJaNpPGu6":"Monolist validator",
-        "7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh":"Monolist validator Vote Account",
+        "BFMufPp4wW276nFzB7FVHgtY8FTahzn53kxxJaNpPGu6":"SolanaHub",
+        "7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh":"SolanaHub validator Vote Account",
         "2PotfnmMDS2mdzoggBnNhNVu5NxZsQB8RaxjbDRPJhSA":"Bartalamew",
         "7z1hAsX5MoyDLmsDvqPKBPeh8ZRdvAR3dqXHg3TpcBkW":"Bartalamew Vote Account",
         "AUa3iN7h4c3oSrtP5pmbRcXJv8QSo4HGHPqXT4WnHDnp":"Bearded Validaᛏᛟᚱ",
@@ -1455,6 +1455,7 @@
         "41zCUJsKk6cMB94DDtm99qWmyMZfp4GkAhhuz4xTwePu": "Circle Treasury",
         "43DbAvKxhXh1oSxkJSqGosNw3HpBnmsWiak6tB5wpecN": "Backpack Exchange",
         "2p6FY2frHSMX6TUYoLq6tFfAh1Q2ESn9HDzWDKFUQwDi": "Backpack Earthquake Aid",
+        "3qjdFdFKxJpUsJzmsQSpS6JoEUtQjLMEps9YLP8PdPcy": "SMC DAO: SMC Mega Wallet",
         "7SRyi7urg28j1XtioKbcJLtkL9Pqu39Y4CTAXwmu2Hts": "Coinlist"
         
     },
