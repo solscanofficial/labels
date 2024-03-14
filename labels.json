@@ -36,6 +36,7 @@
         "LendZqTs7gn5CTSJU1jWKhKuVpjJGom45nnwPb2AMTi": "Lending Program",
         "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr": "Memo Program v2",
         "SwaPpA9LAaLfeLi3a68M4DjnLqgtticKg6CnyNwgAC8": "Swap Program",
+        "DSwpgjMvXhtGn6BsbqmacdBZyfLj6jSWf3HJpdJtmg6N": "Dexlab Swap",
         "WormT3McKhFJ2RkiGpdw9GKvNCrB2aB54gb2uV9MfQC": "Wormhole",
         "wormDTUJ6AWPNvk59vGQbDvGJmqbDTdgWgAqcLBCgUb": "Wormhole Token Bridge",
         "worm2ZoG2kUd4vFXhvjh93UUH596ayRfgQ2MgjNMTth": "Wormhole Core",
@@ -161,7 +162,13 @@
         "6JZoszTBzkGsskbheswiS6z2LRGckyFY4SpEGiLZqA9p": "Bonk Treasury",
         "DBR2ZUvjZTcgy6R9US64t96pBEZMyr9DPW6G2scrctQK": "Bonk MultiSig Wallet",
         "FiRESpaNzgYUiba5vkb44CZJLZjrux1AUECdfwPRsNkg": "Bonk Fire",
-        
+
+        "DCH77scPphZvCMYiZsAusKy5KkidHGkZF11rcsebkbiF": "GrowSol Marketing",
+        "2UuDf7p9kHjLt6w4jRoupZzVhFRr1wSrz46dubeZYmNp": "GrowSol Reward Wallet",
+        "B474hx9ktA2pq48ctLm9QXJpfitg59AWwMEQRn7YhyB7": "GrowSol BuyBack",
+        "HFHHBkQdXoFxUAgQkdGZnLThPV5KvHkZx36WEeZntE9X": "GrowSol Staking Reserve",
+        "3fnTM6qiHEUfhpWyW4kvmzNBhQFwUPtsJHMaxfARbnsk": "GrowSol Team",
+        "ASaatAoea2zA8AYrHRt9cdGFH5o4zEWYJYmhkKYJg7R5": "GrowSol CEX",
         
         "46tLag65TCkLf49scN678ghj1537QwcboKKUxt14agBZ": "SolBlaze Faucet",
         "stk9ApL5HeVAwPLr3TLhDXdZS8ptVu7zp6ov8HFDuMi": "BlazeStake Pool",
