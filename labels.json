@@ -184,7 +184,8 @@
         "PhoeNiXZ8ByJGLkxNfZRnkUfjvmuYqLR89jjFHGqdXY": "Phoenix",
         "821dTn3JEhhqg11Q24ijxRBYXfKWngGMibTqHS8hWjZb": "Rollbit",
         
-        "CCTPmbSD7gX1bxKPAmg77w8oFzNFpaQiQUWD43TKaecd": "Circle CCTP",
+        "CCTPmbSD7gX1bxKPAmg77w8oFzNFpaQiQUWD43TKaecd": "CCTP MessageTransmitter",
+        "CCTPiPYPc6AsJuwueEnWgSgucamXDZwBd53dQ11YiKX3": "CCTP TokenMessengerMinter",
 
         "6MLxLqiXaaSUpkgMnWDTuejNZEz3kE7k2woyHGVFw319": "CremaFinance",
         "94oHQMrCECP266YUoQmDvgVwafZApP9KAseMyNtjAPP7": "MangoRiskCheck",
